@@ -139,7 +139,7 @@
     }
     echo "</tbody></table>";
     echo "</div>";
-//  temp
+//  tempclear\
     if ($_SERVER["REQUEST_METHOD"] == "POST" && $_POST['action'] == 'edit') {
         $index = $_POST['index'];
         $entry = $_SESSION['formData'][$index];
@@ -153,7 +153,10 @@
               </script>";
     }
     ?>
-
+    //from here a new branch started
+    <h1>the new branch begin</h1>
+    <h1>the new branch begin</h1>
+    <h2>the second new branch <h2>
     <!-- Bootstrap JS and dependencies -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@1.16.1/dist/umd/popper.min.js"></script>

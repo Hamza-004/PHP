@@ -156,7 +156,6 @@
     //from here a new branch started
     <h1>the new branch begin</h1>
     <h1>the new branch begin</h1>
-
     <h1>the new branch begin</h1>
     <h1>the new branch begin</h1>
     <h1>the new branch begin</h1>
@@ -164,6 +163,7 @@
     <h2>the third new branch <h2>
     <h2>the fourth new branch <h2>
     <h2>the fifth new branch <h2>
+
     <!-- Bootstrap JS and dependencies -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@1.16.1/dist/umd/popper.min.js"></script>
